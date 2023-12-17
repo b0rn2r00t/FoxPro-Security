@@ -298,9 +298,7 @@ Here's a list of de-compilation tools for FoxPro:
 | --- | --- |
 | ReFox | http://www.xitech-europe.co.uk/ReFox.html |
 | AntiPro | http://www.frog.cz/prod02.htm |
-| UnFox
- | http://asm001.home.chinaren.com/source.htm
-http://www.weihong.com/tools.htm |
+| UnFox | http://asm001.home.chinaren.com/source.htm http://www.weihong.com/tools.htm |
 | SecurityFox | http://http://www.taketech.com/ |
 
 Resources:
@@ -308,8 +306,6 @@ Resources:
 https://old.amu.ac.in/emp/studym/99999062.pdf
 
 https://www.youtube.com/watch?v=jK1pq-4b60w
-
-Microsoft ***Visual FoxPro*** 9.0 ***CD KEY***: P2PHY-RYG9Y-V4F27-4P4V7-HC9KV
 
 REFox XII: decompiler
 
