@@ -289,7 +289,6 @@ Database encryption:
 ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/edcf750a-9ce3-427d-ae4b-5d29576d1bae/dca4b5aa-6451-44ed-afaf-03c41adb0cdd/Untitled.png)
 
 Other:
-
 ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/edcf750a-9ce3-427d-ae4b-5d29576d1bae/d3c11eac-644c-46e5-a076-d7eb0cae2f09/Untitled.png)
 
 Here's a list of de-compilation tools for FoxPro:
